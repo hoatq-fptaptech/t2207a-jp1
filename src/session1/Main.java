@@ -50,6 +50,11 @@ public class Main {
         System.out.println("n: "+n);
         System.out.println("d: "+d);
         System.out.println("str: "+str);
+
+        // Nhập 1 số nguyên n từ bàn phím,
+        // tính tổng S = 1+ 2 + 3 .. + n
+
+        // kiểm tra n có phải số nguyên tố hay không
     }
 
     static int tinhTong(int a,int b){
