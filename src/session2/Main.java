@@ -4,6 +4,9 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args){
+        TamGiac tg = new TamGiac();
+        System.out.println(tg.tinhChuVi());
+        System.out.println(tg.tinhDienTich());
         int x = 10;
         x++;
       //  age++;
