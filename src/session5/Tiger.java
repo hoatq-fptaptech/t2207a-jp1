@@ -3,6 +3,7 @@ package session5;
 public class Tiger extends Animal{
     public void eatMeat(){
         System.out.println("5kg/ngay");
+        this.setWeight(20);
     }
 
     public void eatMeat(String msg){
