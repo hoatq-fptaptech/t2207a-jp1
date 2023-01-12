@@ -3,9 +3,11 @@ package session2;
 import java.util.Scanner;
 
 public class Student {
+    int id;
     String name;
     String email;
     int age = 18; // attribute
+    int mark;
 
     // hàm khởi tạo
     public Student(){
